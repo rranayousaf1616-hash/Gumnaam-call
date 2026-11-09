@@ -1,0 +1,9 @@
+{
+  "name": "gumnaam-call",
+  "version": "1.0.0",
+  "description": "Anonymous random voice call (WebRTC + WebSocket matching)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
